@@ -1,2 +1,4 @@
 # CXScrollViewCircleZoom
-/Users/chenchenxin/Desktop/1.gif
+
+##效果图
+https://github.com/bugWacko/CXScrollViewCircleZoom/edit/master/1.gif
